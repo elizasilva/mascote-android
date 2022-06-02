@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+main {
+    min-width: 300px;
+    max-width: 1000px;
+}
+
+main img {
+    width: 100%;
+}
+
+.pequena {
+    width: 50%;
+    display: block;
+    margin: auto;
+}
